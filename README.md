@@ -1,1 +1,1 @@
-# abs_invoice_quantity
+Display total number of Products and Quantity on Invoices
